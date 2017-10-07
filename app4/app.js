@@ -3,7 +3,7 @@ var app4 = new Vue({
     data: {
         todos: [
             {text:  'Hi this this and that'}, 
-            {text: 'Let\' cirque every day'}, 
+            {text: 'Let\'s cirque every day'}, 
             {text: 'Tantan tatanrarana rnanran '}
         ]
     }
